@@ -1,0 +1,7 @@
+{
+	"name": "ecom-app",
+	"integrations": {
+		"capacitor": {}
+	},
+	"type": "vue-vite"
+}
